@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+#body::after {
+  content: "";
+  background-image: url("../images/Макетфинальный.png");
+  width: 1440px;
+  height: 9963px;
+  display: block;
+  margin: 0 auto;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  opacity: 0.4;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Open Sans";
+}
+#Cover div:nth-of-type(1) {
+  position: absolute;
+  top: 0;
+  left: 120px;
+}
+#Cover div:nth-of-type(2) {
+  position: absolute;
+  top: 0;
+  right: 120px;
+}
+#Cover div:nth-of-type(3) {
+  position: absolute;
+  top: 200px;
+  left: 120px;
+}
+h1 {
+  font-size: 230px;
+  font-weight: normal;
+}
+p {
+  font-size: 32px;
+  font-weight: 350;
+  border: 5px #fff;
+  background-color: rgba(202, 202, 202, 0.5);
+  border-radius: 50px;
+  backdrop-filter: blur(10px);
+  padding: 20px;
+}
+#Cover div:nth-of-type(4) {
+  position: absolute;
+  top: 290px;
+  left: 290px;
+}
+#Cover div:nth-of-type(5) {
+  position: absolute;
+  top: 610px;
+  left: 275px;
+}
+#Cover div:nth-of-type(6) p {
+  position: absolute;
+  top: 603px;
+  left: 440px;
+  width: 700px;
+  border-radius: 50px 50px 50px 0;
+}
+.boldVioletText {
+  color: #b24df1;
+  font-weight: 500;
+}
+#Cover div:nth-of-type(7) {
+  position: absolute;
+  top: 590px;
+  left: 420px;
+}
+#Cover div:nth-of-type(8) {
+  position: absolute;
+  top: 550px;
+  right: 420px;
+}
+#Cover div:nth-of-type(9) p {
+  position: absolute;
+  top: 760px;
+  right: 230px;
+  width: 920px;
+
+  border-radius: 50px;
+}
