@@ -1,0 +1,23 @@
+<svg width="196" height="325" viewBox="0 0 196 325" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-34" y="-34" width="497" height="393"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(17px);clip-path:url(#bgblur_0_2019_2313_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter0_ii_2019_2313)" data-figma-bg-blur-radius="34">
+<path d="M429 325L155.158 325C125.246 325 98.614 318.912 75.2631 306.735C51.9123 294.752 33.4824 276.583 19.9737 252.23C6.65789 227.877 -8.62595e-06 197.339 -7.02073e-06 160.615C-4.73118e-06 108.237 14.1842 68.3244 42.5526 40.8787C70.9211 13.6262 108.842 -1.39945e-05 156.316 -1.19194e-05L429 0L429 49.5763L154.868 49.5763C118.974 49.5763 91.2807 59.047 71.7895 77.9884C52.2982 97.1231 42.5526 125.632 42.5526 163.515C42.5526 189.414 47.1842 210.578 56.4473 227.007C65.9035 243.629 79.0263 255.902 95.8158 263.827C112.798 271.945 132.386 276.004 154.579 276.004L429 276.004L429 325Z" fill="#3345C9" fill-opacity="0.6"/>
+</g>
+<defs>
+<filter id="filter0_ii_2019_2313" x="-34" y="-34" width="497" height="393" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-17"/>
+<feGaussianBlur stdDeviation="7.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_2019_2313"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.75 0"/>
+<feBlend mode="normal" in2="effect1_innerShadow_2019_2313" result="effect2_innerShadow_2019_2313"/>
+</filter>
+<clipPath id="bgblur_0_2019_2313_clip_path" transform="translate(34 34)"><path d="M429 325L155.158 325C125.246 325 98.614 318.912 75.2631 306.735C51.9123 294.752 33.4824 276.583 19.9737 252.23C6.65789 227.877 -8.62595e-06 197.339 -7.02073e-06 160.615C-4.73118e-06 108.237 14.1842 68.3244 42.5526 40.8787C70.9211 13.6262 108.842 -1.39945e-05 156.316 -1.19194e-05L429 0L429 49.5763L154.868 49.5763C118.974 49.5763 91.2807 59.047 71.7895 77.9884C52.2982 97.1231 42.5526 125.632 42.5526 163.515C42.5526 189.414 47.1842 210.578 56.4473 227.007C65.9035 243.629 79.0263 255.902 95.8158 263.827C112.798 271.945 132.386 276.004 154.579 276.004L429 276.004L429 325Z"/>
+</clipPath></defs>
+</svg>
