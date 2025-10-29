@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 
-/* #body::after {
+#body::after {
   content: "";
   background-image: url("../images/Макетфинальный.png");
   width: 1440px;
@@ -11,27 +11,36 @@
   top: 0;
   left: calc(50% - 720px);
   opacity: 0.4;
-} */
+  z-index: -5;
+}
 * {
   box-sizing: border-box;
 }
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Open Sans";
+  width: 1440px;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  overflow-x: hidden;
+}
+#Cover {
+  height: auto;
 }
 #Cover div:nth-of-type(1) {
   position: absolute;
-  top: 0;
-  left: 120px;
 }
 #Cover div:nth-of-type(2) {
   position: absolute;
-  top: 0;
-  right: 120px;
+  right: 0px;
 }
 #Cover div:nth-of-type(3) {
   position: absolute;
   top: 200px;
-  left: 120px;
+  left: 0px;
 }
 h1 {
   font-size: 230px;
@@ -49,17 +58,18 @@ p {
 #Cover div:nth-of-type(4) {
   position: absolute;
   top: 290px;
-  left: 290px;
+  left: 160px;
 }
 #Cover div:nth-of-type(5) {
   position: absolute;
   top: 610px;
-  left: 275px;
+  left: 140px;
 }
 #Cover div:nth-of-type(6) p {
+  justify-content: center;
   position: absolute;
   top: 603px;
-  left: 440px;
+  left: 300px;
   width: 700px;
   border-radius: 50px 50px 50px 0;
 }
@@ -68,19 +78,22 @@ p {
   font-weight: 500;
 }
 #Cover div:nth-of-type(7) {
+  justify-content: center;
   position: absolute;
   top: 590px;
-  left: 420px;
+  left: 370px;
 }
 #Cover div:nth-of-type(8) {
+  justify-content: center;
   position: absolute;
   top: 550px;
-  right: 420px;
+  right: 300px;
 }
 #Cover div:nth-of-type(9) p {
+  justify-content: center;
   position: absolute;
   top: 760px;
-  right: 230px;
+  right: 100px;
   width: 920px;
 
   border-radius: 50px;
@@ -88,10 +101,51 @@ p {
 #Languages1 div:nth-of-type(1) {
   position: absolute;
   top: 880px;
-  left: 140px;
+  left: 0px;
 }
 #Languages1 div:nth-of-type(2) {
   position: absolute;
-  top: 880px;
-  right: 135px;
+  top: 970px;
+  right: 0px;
+}
+#Languages1 div:nth-of-type(3) {
+  position: absolute;
+  top: 970px;
+  right: 400px;
+}
+#Languages1 div:nth-of-type(4) {
+  position: absolute;
+  top: 1200px;
+  left: 65px;
+}
+#Languages1 div:nth-of-type(5) {
+  position: absolute;
+  top: 1270px;
+  right: 160px;
+}
+#Languages1 div:nth-of-type(6) p {
+  justify-content: center;
+  position: absolute;
+  top: 1250px;
+  right: 330px;
+  width: 826px;
+  border-radius: 50px 50px 0px 50px;
+}
+#Languages2 div:nth-of-type(1) {
+  position: absolute;
+  top: 1500px;
+  left: 160px;
+}
+#Languages2 div:nth-of-type(2) {
+  position: absolute;
+  top: 1530px;
+  right: 170px;
+}
+#Languages2 div:nth-of-type(3) p {
+  justify-content: center;
+  position: absolute;
+  top: 1530px;
+  left: 300px;
+  width: 150px;
+  border-radius: 50px;
 }
