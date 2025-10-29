@@ -1,0 +1,18 @@
+<svg width="196" height="325" viewBox="0 0 196 325" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-267" y="-34" width="497" height="393"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(17px);clip-path:url(#bgblur_0_2019_2314_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter0_i_2019_2314)" data-figma-bg-blur-radius="34">
+<path d="M-233 0L40.8421 -1.197e-05C70.7544 -1.32775e-05 97.386 6.0883 120.737 18.2649C144.088 30.2483 162.518 48.4166 176.026 72.7698C189.342 97.1231 196 127.661 196 164.384C196 216.763 181.816 256.676 153.447 284.121C125.079 311.374 87.1579 325 39.6842 325L-233 325L-233 275.424L41.1316 275.424C77.0263 275.424 104.719 265.953 124.211 247.012C143.702 227.877 153.447 199.368 153.447 161.485C153.447 135.586 148.816 114.422 139.553 97.9929C130.096 81.3708 116.974 69.0975 100.184 61.1731C83.2017 53.0553 63.614 48.9964 41.421 48.9964L-233 48.9964L-233 0Z" fill="#B24DF1" fill-opacity="0.6"/>
+</g>
+<defs>
+<filter id="filter0_i_2019_2314" x="-267" y="-34" width="497" height="393" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-17"/>
+<feGaussianBlur stdDeviation="7.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_2019_2314"/>
+</filter>
+<clipPath id="bgblur_0_2019_2314_clip_path" transform="translate(267 34)"><path d="M-233 0L40.8421 -1.197e-05C70.7544 -1.32775e-05 97.386 6.0883 120.737 18.2649C144.088 30.2483 162.518 48.4166 176.026 72.7698C189.342 97.1231 196 127.661 196 164.384C196 216.763 181.816 256.676 153.447 284.121C125.079 311.374 87.1579 325 39.6842 325L-233 325L-233 275.424L41.1316 275.424C77.0263 275.424 104.719 265.953 124.211 247.012C143.702 227.877 153.447 199.368 153.447 161.485C153.447 135.586 148.816 114.422 139.553 97.9929C130.096 81.3708 116.974 69.0975 100.184 61.1731C83.2017 53.0553 63.614 48.9964 41.421 48.9964L-233 48.9964L-233 0Z"/>
+</clipPath></defs>
+</svg>
