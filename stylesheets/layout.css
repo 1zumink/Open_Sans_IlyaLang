@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 
-#body::after {
+/* #body::after {
   content: "";
   background-image: url("../images/Макетфинальный.png");
   width: 1440px;
@@ -12,7 +12,7 @@
   left: calc(50% - 720px);
   opacity: 0.4;
   z-index: -5;
-}
+} */
 * {
   box-sizing: border-box;
 }
