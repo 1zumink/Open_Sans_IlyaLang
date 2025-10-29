@@ -77,6 +77,10 @@ p {
   color: #b24df1;
   font-weight: 500;
 }
+.boldBlueText {
+  color: #3345c9;
+  font-weight: 500;
+}
 #Cover div:nth-of-type(7) {
   justify-content: center;
   position: absolute;
@@ -144,8 +148,99 @@ p {
 #Languages2 div:nth-of-type(3) p {
   justify-content: center;
   position: absolute;
-  top: 1530px;
-  left: 300px;
-  width: 150px;
+  top: 1580px;
+  left: 440px;
+  width: 159px;
   border-radius: 50px;
+  transform: rotate(15deg);
+}
+#Languages2 div:nth-of-type(4) p {
+  justify-content: center;
+  position: absolute;
+  top: 1660px;
+  left: 180px;
+  width: 173px;
+  border-radius: 50px;
+  transform: rotate(-15deg);
+}
+#Languages2 div:nth-of-type(5) p {
+  justify-content: center;
+  position: absolute;
+  top: 1710px;
+  left: 550px;
+  width: 134px;
+  border-radius: 50px;
+  transform: rotate(-15deg);
+}
+#Languages2 div:nth-of-type(6) p {
+  justify-content: center;
+  position: absolute;
+  top: 1800px;
+  left: 430px;
+  width: 117px;
+  border-radius: 50px;
+  transform: rotate(-15deg);
+}
+#Languages2 div:nth-of-type(7) p {
+  justify-content: center;
+  position: absolute;
+  top: 1830px;
+  left: 580px;
+  width: 167px;
+  border-radius: 50px;
+  transform: rotate(0deg);
+}
+#Languages2 div:nth-of-type(8) p {
+  justify-content: center;
+  position: absolute;
+  top: 1855px;
+  left: 280px;
+  width: 151px;
+  border-radius: 50px;
+  transform: rotate(15deg);
+}
+#Languages2 div:nth-of-type(9) p {
+  justify-content: center;
+  position: absolute;
+  top: 1640px;
+  right: 460px;
+  width: 148px;
+  border-radius: 50px;
+  transform: rotate(-15deg);
+}
+#Languages2 div:nth-of-type(10) p {
+  justify-content: center;
+  position: absolute;
+  top: 1620px;
+  right: 260px;
+  width: 122px;
+  border-radius: 50px;
+  transform: rotate(15deg);
+}
+#Languages2 div:nth-of-type(11) p {
+  justify-content: center;
+  position: absolute;
+  top: 1760px;
+  right: 530px;
+  width: 154px;
+  border-radius: 50px;
+  transform: rotate(15deg);
+}
+#Languages2 div:nth-of-type(12) p {
+  justify-content: center;
+  position: absolute;
+  top: 1760px;
+  right: 150px;
+  width: 217px;
+  border-radius: 50px;
+  transform: rotate(-15deg);
+}
+#Languages2 div:nth-of-type(13) p {
+  justify-content: center;
+  position: absolute;
+  top: 1890px;
+  right: 355px;
+  width: 163px;
+  border-radius: 50px;
+  transform: rotate(15deg);
 }
