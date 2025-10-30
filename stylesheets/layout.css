@@ -26,6 +26,7 @@ body {
   margin: 0 auto;
   position: relative;
   overflow-x: hidden;
+  background-color: white;
 }
 #Cover {
   height: auto;
