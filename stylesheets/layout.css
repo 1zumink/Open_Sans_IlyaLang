@@ -466,3 +466,275 @@ p {
   top: 5489px;
   left: 267px;
 }
+#screens div:nth-of-type(1) {
+  position: absolute;
+  top: 6524px;
+  left: 0px;
+}
+#screens div:nth-of-type(2) {
+  position: absolute;
+  top: 6685px;
+  right: 427px;
+}
+#screens div:nth-of-type(3) p {
+  justify-content: center;
+  position: absolute;
+  top: 6670px;
+  left: 228px;
+  width: 611px;
+  border-radius: 50px 50px 0px 50px;
+}
+#screens div:nth-of-type(4) {
+  position: absolute;
+  top: 6708px;
+  left: 0px;
+}
+#screens div:nth-of-type(5) {
+  position: absolute;
+  top: 6964px;
+  right: 147px;
+}
+#glyphs div:nth-of-type(1) {
+  position: absolute;
+  top: 7954px;
+  left: 67px;
+}
+#glyphs div:nth-of-type(2) {
+  position: absolute;
+  top: 8024px;
+  left: 287px;
+}
+#glyphs div:nth-of-type(3) {
+  position: absolute;
+  top: 7950px;
+  right: 40px;
+}
+#glyphs div:nth-of-type(4) {
+  position: absolute;
+  top: 7910px;
+  left: 134px;
+}
+#glyphs div:nth-of-type(5) p {
+  justify-content: center;
+  position: absolute;
+  top: 7940px;
+  left: 307px;
+  width: 721px;
+  border-radius: 50px 50px 50px 0px;
+}
+#glyphs div:nth-of-type(6) {
+  position: absolute;
+  top: 8184px;
+  left: 147px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(6):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(7) {
+  position: absolute;
+  top: 8184px;
+  left: 147px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(8) {
+  position: absolute;
+  top: 8093px;
+  left: 358px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(8):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(9) {
+  position: absolute;
+  top: 8093px;
+  left: 358px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(10) {
+  position: absolute;
+  top: 8113px;
+  left: 546px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(10):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(11) {
+  position: absolute;
+  top: 8113px;
+  left: 546px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(12) {
+  position: absolute;
+  top: 8199px;
+  left: 741px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(12):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(13) {
+  position: absolute;
+  top: 8199px;
+  left: 741px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(14) {
+  position: absolute;
+  top: 8035px;
+  right: 300px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(14):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(15) {
+  position: absolute;
+  top: 8035px;
+  right: 300px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(16) {
+  position: absolute;
+  top: 8255px;
+  right: 268px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(16):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(17) {
+  position: absolute;
+  top: 8255px;
+  right: 268px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(18) {
+  position: absolute;
+  top: 8172px;
+  right: 90px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(18):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(19) {
+  position: absolute;
+  top: 8172px;
+  right: 90px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(20) {
+  position: absolute;
+  top: 8404px;
+  left: 182px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(20):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(21) {
+  position: absolute;
+  top: 8404px;
+  left: 182px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(22) {
+  position: absolute;
+  top: 8360px;
+  left: 432px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(22):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(23) {
+  position: absolute;
+  top: 8360px;
+  left: 432px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(24) {
+  position: absolute;
+  top: 8429px;
+  left: 627px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(24):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(25) {
+  position: absolute;
+  top: 8429px;
+  left: 627px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(26) {
+  position: absolute;
+  top: 8429px;
+  right: 384px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(26):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(27) {
+  position: absolute;
+  top: 8429px;
+  right: 384px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(28) {
+  position: absolute;
+  top: 8383px;
+  right: 103px;
+  z-index: 10;
+  transition: all ease 0.3s;
+}
+#glyphs div:nth-of-type(28):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#glyphs div:nth-of-type(29) {
+  position: absolute;
+  top: 8383px;
+  right: 103px;
+  z-index: 9;
+  transition: all ease 0.3s;
+}
