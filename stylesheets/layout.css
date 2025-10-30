@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 
-#body::after {
+/* #body::after {
   content: "";
   background-image: url("../images/Макетфинальный.png");
   width: 1440px;
@@ -12,7 +12,7 @@
   left: calc(50% - 720px);
   opacity: 0.4;
   z-index: -5;
-}
+} */
 * {
   box-sizing: border-box;
 }
@@ -53,7 +53,7 @@ p {
   background-color: rgba(202, 202, 202, 0.5);
   border-radius: 50px;
   backdrop-filter: blur(10px);
-  padding: 20px;
+  padding: 25px;
 }
 #Cover div:nth-of-type(4) {
   position: absolute;
@@ -309,7 +309,7 @@ p {
   z-index: 6;
   transition: all ease 0.3s;
 }
-#specials div:nth-of-type(5) :hover {
+#specials div:nth-of-type(5):hover {
   opacity: 0;
   transition: all ease 0.6s;
 }
@@ -320,7 +320,7 @@ p {
   z-index: 6;
   transition: all ease 0.3s;
 }
-#specials div:nth-of-type(6) :hover {
+#specials div:nth-of-type(6):hover {
   opacity: 0;
   transition: all ease 0.6s;
 }
@@ -337,4 +337,132 @@ p {
   right: 119px;
   z-index: 5;
   transition: all ease 0.3s;
+}
+#styles div:nth-of-type(1) {
+  position: absolute;
+  top: 4353px;
+  left: 0px;
+}
+#styles div:nth-of-type(2) {
+  position: absolute;
+  top: 4268px;
+  left: 120px;
+}
+#styles div:nth-of-type(3) {
+  position: absolute;
+  top: 4393px;
+  left: 340px;
+}
+#styles div:nth-of-type(4) {
+  position: absolute;
+  top: 4150px;
+  right: 100px;
+}
+#styles div:nth-of-type(5) {
+  position: absolute;
+  top: 4353px;
+  right: 0px;
+}
+#styles div:nth-of-type(6) {
+  position: absolute;
+  top: 4250px;
+  right: 220px;
+}
+#styles div:nth-of-type(7) p {
+  justify-content: center;
+  position: absolute;
+  top: 4240px;
+  right: 390px;
+  width: 683px;
+  border-radius: 50px 50px 0px 50px;
+}
+#styles div:nth-of-type(8) {
+  position: absolute;
+  top: 4314px;
+  left: 40px;
+  z-index: 8;
+  transition: all ease 0.3s;
+}
+#styles div:nth-of-type(8):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#styles div:nth-of-type(9) {
+  position: absolute;
+  top: 4624px;
+  left: 283px;
+  z-index: 8;
+  transition: all ease 0.3s;
+}
+#styles div:nth-of-type(9):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#styles div:nth-of-type(10) {
+  position: absolute;
+  top: 4386px;
+  right: 342px;
+  z-index: 8;
+  transition: all ease 0.3s;
+}
+#styles div:nth-of-type(10):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#styles div:nth-of-type(11) {
+  position: absolute;
+  top: 4758px;
+  right: 141px;
+  z-index: 8;
+  transition: all ease 0.3s;
+}
+#styles div:nth-of-type(11):hover {
+  opacity: 0;
+  transition: all ease 0.6s;
+}
+#styles div:nth-of-type(12) {
+  position: absolute;
+  top: 4314px;
+  left: 40px;
+  z-index: 7;
+  transition: all ease 0.3s;
+}
+#styles div:nth-of-type(13) {
+  position: absolute;
+  top: 4624px;
+  left: 283px;
+  z-index: 7;
+  transition: all ease 0.3s;
+}
+#styles div:nth-of-type(14) {
+  position: absolute;
+  top: 4386px;
+  right: 342px;
+  z-index: 7;
+  transition: all ease 0.3s;
+}
+#styles div:nth-of-type(15) {
+  position: absolute;
+  top: 4758px;
+  right: 141px;
+  z-index: 7;
+  transition: all ease 0.3s;
+}
+#grotesk div:nth-of-type(1) {
+  position: absolute;
+  top: 5336px;
+  left: 213px;
+}
+#grotesk div:nth-of-type(2) p {
+  justify-content: center;
+  position: absolute;
+  top: 5343px;
+  left: 390px;
+  width: 504px;
+  border-radius: 50px 50px 50px 0px;
+}
+#grotesk div:nth-of-type(3) {
+  position: absolute;
+  top: 5489px;
+  left: 267px;
 }
